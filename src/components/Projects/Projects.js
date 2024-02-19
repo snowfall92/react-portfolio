@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Hoo-Bank"
               description="This innovative React project revolutionizes the way you make payments, prioritizing ease, reliability, and security. It offers a fresh approach that eliminates friction points and fosters trust, ultimately enhancing the payment experience for both users and businesses."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/snowfall92?tab=repositories"
               demoLink="https://hoobank1992.netlify.app/"
             />
           </Col>
@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Flo's BarberShop"
               description="I'm proud to present my HTML & CSS barbershop website, designed to showcase your services and captivate potential clients. This website offers a clean, modern aesthetic that reflects the professionalism and attention to detail of your barbershop."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/snowfall92?tab=repositories"
               demoLink="https://floresbarbershop.netlify.app/"              
             />
           </Col>
@@ -60,7 +60,7 @@ function Projects() {
               isBlog={false}
               title="Fresh N Go"
               description="Welcome to the digital home of Fresh N' Go, San Diego's beloved restaurant serving up delicious, organic, and healthy food on the go! This website, built with the power of HTML, CSS, and PHP, reflects the vibrant spirit and commitment to quality that has made Fresh N' Go a local favorite."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/snowfall92?tab=repositories"
               demoLink="https://freshngo.netlify.app/"
             />
           </Col>
